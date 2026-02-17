@@ -1,7 +1,7 @@
 # Aca Shop - Mercado Estudiantil FES Acatlán 
-Alitzel Sophia Camacho Flores
-Cristina Vianeth Saiz Pérez 
-Itzel Chavez Gonzalez 
+Alitzel Sophia Camacho Flores<br>
+Cristina Vianeth Saiz Pérez <br>
+Itzel Chavez Gonzalez <br>
 Ximena Toledo Mendez 
 
 ## Visión del Proyecto
