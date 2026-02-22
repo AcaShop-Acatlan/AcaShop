@@ -8,6 +8,10 @@ Ximena Toledo Mendez
 Aca Shop es una plataforma web centralizada diseñada para la comunidad de la FES Acatlán. Nuestro objetivo es profesionalizar la venta de productos creados por alumnos, proporcionando un medio formal y accesible que facilite la interacción entre vendedores y compradores, impulsando así el emprendimiento estudiantil.
 [SISTEMA WEB DE COMPRA Y VENTA ESTUDIANTIL.docx.pdf](https://github.com/user-attachments/files/25353500/SISTEMA.WEB.DE.COMPRA.Y.VENTA.ESTUDIANTIL.docx.pdf)
 
+## Diagrama de arquitectura en capas
+Este diagrama ayudara a mejorar el orden, el mantenimiento y la escalabilidad del sistema, haciendo que el desarrollo de Aca Shop sea más claro y eficiente.
+[Diagrama de arquitectura en capas.pdf](https://github.com/user-attachments/files/25464468/Diagrama.de.arquitectura.en.capas.pdf)
+
 ## Stack Tecnológico
 Para el desarrollo de este sistema, utilizaremos las siguientes tecnologías:
 **Frontend:** Next.js (React)
